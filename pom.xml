@@ -22,7 +22,9 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+    <build>
+        <finalName>Java-docker-jenkins-mariet</finalName>
+    </build>
 
 
 </project>
